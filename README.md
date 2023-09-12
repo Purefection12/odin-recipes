@@ -1,0 +1,1 @@
+This project will demonstrate my basic HTML skills. I have already completed Angela Yu's Complete Web Development Bootcamp 2023. I am now trying to reinforce my learning and prehaps learn new skills and tips not covered in my previous bootcamp. This project will be a basic recipe HTML only website and will look to add to it as I go along.
